@@ -1,0 +1,5 @@
+
+BOOKS
+Practical Event-Driven Microservices Architecture: Building Sustainable and Highly Scalable Event-Driven Microservices
+Oliveira Rocha, Hugo Filipe
+2021 ; 1 
